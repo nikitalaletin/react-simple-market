@@ -1,0 +1,27 @@
+.idea/
+.tmp/
+.sass-cache/
+build/
+docs/
+node_modules/
+config/*
+!config/default.js
+node_modules/*
+.test*/
+
+
+# Visual studio
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
